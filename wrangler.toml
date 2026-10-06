@@ -1,0 +1,9 @@
+name = "campus-equipment-booking-api"
+main = "src/worker.ts"
+compatibility_date = "2026-10-06"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "campus-equipment-booking"
+database_id = "d7c52acc-1e73-4c80-bf6a-340ac24d883d"
+migrations_dir = "migrations"
